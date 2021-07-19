@@ -1,0 +1,2 @@
+10-BrownianTrap/vanMameren-raw.txt filter=lfs diff=lfs merge=lfs -text
+11-CryoEM/*.npz filter=lfs diff=lfs merge=lfs -text
