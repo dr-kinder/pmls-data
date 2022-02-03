@@ -1,0 +1,4 @@
+File flowCytometry.npy contains measured fluorescence values for each of a large collection of individual immune-system cells.
+
+Data from Erez, A., Vogel, R., Mugler, A., Belmonte, A., and Altan-Bonnet, G. (2018). Modeling of cytometry data in logarithmic space: When is a bimodal distribution not bimodal? Cytometry Part  A: the Journal of the International Society for Analytical Cytology, 93(6), 611--619. http://doi.org/10.1002/cyto.a.23333 ,
+which cites https://github.com/AmirErez/BimodalLogspaceCytA . We have extracted the third column of the data file 20140920-OT1-dynamics_Specimen_005_E5_E0.txt to let you reproduce Fig. 3 of the article.

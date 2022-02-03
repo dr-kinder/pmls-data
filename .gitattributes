@@ -1,0 +1,5 @@
+10-BrownianTrap/vanMameren-raw.txt filter=lfs diff=lfs merge=lfs -text
+11-CryoEM/1dImages.npz filter=lfs diff=lfs merge=lfs -text
+11-CryoEM/2dImages.npz filter=lfs diff=lfs merge=lfs -text
+11-CryoEM/2dPrepChinese6-3-1-1500NewRotation.npz filter=lfs diff=lfs merge=lfs -text
+11-CryoEM/*.npz filter=lfs diff=lfs merge=lfs -text

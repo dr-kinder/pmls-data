@@ -1,0 +1,1 @@
+File vanMameren-raw.txt: Observed positions of a particle at a series of times separated by (1/195000)s. Only positions along one axis are recorded, in nanometers. Data kindly supplied by J. van Mameren and C. Schmidt.
