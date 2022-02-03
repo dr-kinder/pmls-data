@@ -1,5 +1,6 @@
 This folder contains all of the data sets described in the first edition of
-_Physical Models of Living Systems_ by Philip Nelson.
+_Physical Models of Living Systems_ by Philip Nelson.  Some are no longer
+present in the second edition, and some have new names.
 
 Several of these data sets are also used in _A Student's Guide to Python for
 Physical Modeling_ by Jesse M. Kinder and Philip Nelson.
