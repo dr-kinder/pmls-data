@@ -14,3 +14,6 @@ figure do not give the absolute voltage, so the voltage data have been centered
 on these values.
 
 Time values for the samples were inferred from the 50 ms scale bar in Figure 1.
+
+The first column of each file gives time in ms.
+The second column of each file gives voltage in mV.
